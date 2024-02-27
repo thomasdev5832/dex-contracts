@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.9;
+pragma solidity ^0.8.7;
 
-import "@thirdweb-dev/contracts/base/ERC20base.sol";
+import "@thirdweb-dev/contracts/base/ERC20Base.sol";
 
 contract DEX is ERC20Base {
     
